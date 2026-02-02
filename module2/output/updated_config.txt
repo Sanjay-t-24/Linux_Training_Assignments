@@ -1,0 +1,5 @@
+server=127.0.0.1
+database_host=127.0.0.1
+database_port=5432
+api_endpoint=http://127.0.0.1/api
+cache_server=127.0.0.1

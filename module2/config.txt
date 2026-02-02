@@ -1,0 +1,5 @@
+server=localhost
+database_host=localhost
+database_port=5432
+api_endpoint=http://localhost/api
+cache_server=localhost
