@@ -1,0 +1,7 @@
+"frame.time": "Nov 14, 2024 11:44:48.219200000 India Standard Time"
+"wlan.fc.type": "1"
+"wlan.fc.subtype": "9"
+other.random.field: "xyz"
+"frame.time": "Nov 14, 2024 11:44:48.219208000 India Standard Time"
+"wlan.fc.type": "0"
+"wlan.fc.subtype": "1"
